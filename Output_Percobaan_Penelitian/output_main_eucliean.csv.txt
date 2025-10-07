@@ -1,0 +1,201 @@
+
+Noise Points (Outliers):
+  /product/<NUM>/<NUM>/تب-سنج-Omron-مدل-GentleTemp-<NUM>
+  /image/<NUM>?name=kachiran-roz<NUM>+.jpg&wh=<NUM>x<NUM>
+  /filter/stexists,p<NUM>,b<NUM>,b<NUM>,b<NUM>,b<NUM>
+  /settings/logo
+  /m/browse/mixer/همزن
+  /discountLabel/get/<NUM>?type=mobileSmallIcon
+  /browse/blu-ray
+  /image/<NUM>?name=photo_<NUM>-<NUM>-<NUM>_<NUM>-<NUM>-<NUM>.jpg&wh=<NUM>x<NUM>
+  /login/auth
+  /favicon.ico
+  /product/<NUM>?model=<NUM>
+  /amp-helper-frame.html?appId=a<NUM>a<NUM>c<NUM>-<NUM>c<NUM>-<NUM>a-a<NUM>-e<NUM>f<NUM>e<NUM>&parentOrigin=https://www-zanbil-ir.cdn.ampproject.org
+  /image/<NUM>/productTypeType
+  /amp_preconnect_polyfill_<NUM>_or_other_error_expected._Do_not_worry_about_it?<NUM>
+  /robots.txt
+  /image/<NUM>?name=samsung-galaxy-s<NUM>-<NUM>.jpg&wh=<NUM>x<NUM>
+  /m/search
+  /manifest.json
+  /static/js/accordion.js?_=<NUM>
+  /m/prepareSearch?phrase=
+  /image/<NUM>?name=-jetblack.....jpg&wh=max
+  /image/<NUM>?name=elite-new-<NUM>.jpg&wh=<NUM>x<NUM>
+  /amp-helper-frame.html?appId=a<NUM>a<NUM>c<NUM>-<NUM>c<NUM>-<NUM>a-a<NUM>-e<NUM>f<NUM>e<NUM>&parentOrigin=https://www.zanbil.ir
+  /image/<NUM>?name=iphone-xs-<NUM>.jpg&wh=max
+  /static/bundle-bundle_site_defer.min.js
+  /image/<NUM>?name=s<NUM>-alternatedefaultimage-<NUM>-<NUM>fe<NUM>eb-<NUM>c<NUM>-<NUM>f<NUM>c-afde-bc<NUM>add<NUM>ac<NUM>.jpg&wh=<NUM>x<NUM>
+  /static/bundle-bundle_site_head.css
+  /static/css/font/wyekan/font.woff
+  /
+  /blog/home-appliances/food-preparation/grinder/
+  /m/updateVariation?__amp_source_origin=https://www.zanbil.ir
+  /ajaxFilter/p<NUM>,b<NUM>?page=<NUM>
+  /image/<NUM>/productModel/<NUM>x<NUM>
+  /image/<NUM>?name=samsung-galaxy-s<NUM>-plus-<NUM>.jpg&wh=<NUM>x<NUM>
+  /static/css/font_awesome/fonts/fontawesome-webfont.woff<NUM>?v=<NUM>.<NUM>.<NUM>
+  /filter/stexists,p<NUM>
+  /blog/sports/sport-fields/table-sports/table-football/
+  /image/get?path=/Image/x<NUM>l<NUM>ghv<NUM>.jpg
+  /product/<NUM>/<NUM>/صندلی-ماساژور-rain-sport-مدل-RK-<NUM>b
+  /image/{{basketItem.id}}?type=productModel&wh=<NUM>x<NUM>
+  /filter/p<NUM>,v<NUM>|سیلور.,v<NUM>|سفید.?o=v<NUM>
+  /image/<NUM>?name=iphonexs_silver.jpg&wh=max
+  /image/<NUM>/productType/<NUM>x<NUM>
+  /image/<NUM>/article/<NUM>x<NUM>
+
+Cluster 0:
+  /blog/tag/عطر/
+  /blog/tag/خواب/
+  /blog/tag/گجت/
+  /blog/tag/ادویه/feed/
+
+Cluster 1:
+  /product/<NUM>/<NUM>/مهره-دستبند-الیور-وبر-مدل-استیل-طرح-قاب-مونتانا-Bagsuette-Steel-montana
+  /product/<NUM>/<NUM>/اتو-مو-بابیلیس-مدل-I-pro-<NUM>-XL-ST<NUM>E
+  /product/<NUM>/<NUM>/ساعت-عقربه-ای-دیجیتال-مردانه-CASIO-مدل-GA-<NUM>-<NUM>BDR
+  /m/article/<NUM>/علت-و-درمان-گردن-درد-(همراه-سردرد-و-سرگیجه)
+  /product/<NUM>/<NUM>/ساعت-عقربه-ای-دیجیتال-اسپرت-CASIO-مدل-GA-<NUM>RG-<NUM>ADR
+  /product/<NUM>/<NUM>/چای-ساز-قوری-روی-کتری-فیلیپس-مدل-HD<NUM>
+  /product/<NUM>/<NUM>/سشوار-خانگی-پرنسلی-مدل-PR<NUM>AT
+  /m/product/<NUM>/<NUM>/گوشی-موبایل-اپل-مدل-iPhone-XS-<NUM>GB
+  /product/<NUM>/<NUM>/همزن-بلک-اند-دکر-مدل-M<NUM>
+  /product/<NUM>/<NUM>/میز-عسلی-Persis-مدل-TS<NUM>
+  /product/<NUM>/<NUM>/تلویزیون-ال-ای-دی-ایکس-ویژن-مدل-LE-<NUM>D<NUM>
+  /product/<NUM>/<NUM>/مخلوط-کن-و-آسیاب-پاناسونیک-مدل-MX-GX<NUM>-W
+  /product/<NUM>/<NUM>/دستبند-زنانه-الیور-وبر-مدل-توپاز-طرح-ببر-طلایی-Tiger-gold-lt-col-topaz
+  /product/<NUM>/<NUM>/سینک-ظرفشویی-توکار-لتو-مدل-TX-<NUM>
+  /product/<NUM>/<NUM>/مایکروفر-رومیزی-سامسونگ-مدل-CE<NUM>
+  /product/<NUM>/<NUM>/دستبند-زنانه-الیور-وبر-مدل-کریستال-طلایی-طرح-مقام-Rank-rhod-crystal
+  /product/<NUM>/<NUM>/ساعت-مچی-عقربه-ای-زنانه-گس-مدل-W<NUM>L<NUM>
+  /product/<NUM>/<NUM>/سر-شور-آریا-صنعت-مدل-SN-<NUM>
+  /product/<NUM>/<NUM>/مایکروفر-رومیزی-ال-جی-مدل-MG<NUM>S
+  /product/<NUM>/<NUM>/اتو-مو-بابیلیس-مدل-ST<NUM>E
+  /product/<NUM>/<NUM>/مهره-دستبند-الیور-وبر-مدل-استیل-مدل-شاین-هفت-رنگ-Shine-thin-Steel-crystal-AB
+  /product/<NUM>/<NUM>/گردنبند-زنانه-الیور-وبر-مدل-کریستال-طرح-برازنده-Graceful-rhod-crystal
+  /product/<NUM>/<NUM>/پیانو-آکوستیک-دیواری-YAMAHA-مدل-JU<NUM>
+  /product/<NUM>/<NUM>/یخچال-فریزر-سینجر-مدل-pearl-SR<NUM>
+  /product/<NUM>/<NUM>/عطر-و-ادکلن-مردانه-هوگو-باس-مدل-Boss-Bottled-Night
+  /product/<NUM>/<NUM>/گردنبند-زنانه-الیور-وبر-مدل-شبدر-خوش-شانس-چهارپر-Lucky-rhod-crystal
+  /m/product/<NUM>/<NUM>/ماشین-اصلاح-صورت-پرنسلی-مدل-PR<NUM>AT
+  /product/<NUM>/<NUM>/گوشواره-زنانه-الیور-وبر-مدل-کریستال-طرح-دومینو-Domino-rhod-Crystal
+  /m/product/<NUM>/<NUM>/کتری-برقی-گاستروبک-مدل-<NUM>
+  /product/<NUM>/<NUM>/مایکروفر-رومیزی-سامسونگ-مدل-ME<NUM>
+  /product/<NUM>/<NUM>/فشارسنج-بازویی-ایزی-لایف-مدل-HS-<NUM>
+  /product/<NUM>/<NUM>/گردنبند-زنانه-الیور-وبر-مدل-کریستال-طرح-حلقه-ها-Double-Round-crystal
+  /article/<NUM>/علت-و-درمان-گردن-درد-(همراه-سردرد-و-سرگیجه)
+  /m/product/<NUM>/<NUM>/آب-پرتقال-گیری-گاستروبک-مدل-<NUM>
+  /product/<NUM>/<NUM>/تلویزیون-ال-ای-دی-ایکس-ویژن-مدل-<NUM>XS<NUM>
+  /product/<NUM>/<NUM>/اتو-بخار-بایترون-مدل-BPV-E<NUM>
+  /product/<NUM>/<NUM>/عطر-و-ادکلن-زنانه-دیور-مدل-Poison-Girl
+  /product/<NUM>/<NUM>/توستر-میدیا-مدل-MG<NUM>CHB
+  /product/<NUM>/<NUM>/ساعت-مچی-عقربه-ای-مردانه-کاترپیلار-مدل-LB.<NUM>.<NUM>.<NUM>
+  /m/product/<NUM>/<NUM>/آب-پرتقال-گیری-تفال-مدل-<NUM>
+  /product/<NUM>/<NUM>/اپیلاتور-براون-مدل-<NUM>
+  /product/<NUM>/<NUM>/مهره-دستبند-الیور-وبر-مدل-استیل-طرح-اسپایک-متالیک-Spike-Steel-metallic
+  /product/<NUM>/<NUM>/گردنبند-زنانه-الیور-وبر-مدل-کریستال-طرح-فرشته-مقدس-<NUM>AG-rhod-crystal
+  /product/<NUM>/<NUM>/عطر-و-ادکلن-مشترک-Marc-Joseph-مدل-Vetiver-Story
+  /m/product/<NUM>/<NUM>/گوشی-موبایل-اپل-مدل-iPhone-<NUM>-<NUM>GB
+  /product/<NUM>/<NUM>/ساعت-مچی-عقربه-ای-مردانه-CASIO-مدل-EFV-<NUM>BL-<NUM>AVUDF
+  /m/product/<NUM>/<NUM>/گوشی-موبایل-سامسونگ-مدل-Galaxy-A<NUM>-(<NUM>)-Dual-<NUM>GB-(SM-A<NUM>)
+  /product/<NUM>/<NUM>/مهره-دستبند-الیور-وبر-مدل-استیل-طرح-قاب-کریستال-Bagsuette-Steel-crystal
+
+Cluster 2:
+  /m/browse/fryer/سرخ-کن
+  /m/browse/cell-phone/گوشی-موبایل
+  /m/browse/meat-grinder/چرخ-گوشت
+  /m/browse/citrus-only-juicer/آب-پرتقال-گیری
+  /m/browse/food-preparation/آماده-سازی-غذا
+  /m/browse/refrigerator-and-freezer/یخچال-فریزر
+
+Cluster 3:
+  /site/alexaGooleAnalitic
+  /site/enamad
+  /site/ping
+
+Cluster 4:
+  /static/images/guarantees/bestPrice.png
+  /static/images/search-category-arrow.png
+  /static/images/guarantees/goodShopping.png
+  /static/images/guarantees/support.png
+  /static/images/guarantees/warranty.png
+  /static/images/guarantees/fastDelivery.png
+
+Cluster 5:
+  /image/<NUM>/specialSale?role=e<NUM>
+  /image/<NUM>/brand
+  /image/<NUM>/specialSale
+
+Cluster 6:
+  /image/<NUM>/mainSlide
+  /static/images/amp/instagram.png
+  /image/<NUM>/mainSlideMobile
+  /static/images/amp/blog.png
+  /static/images/favicon.ico
+  /static/images/third-party/footer.png
+  /static/images/amp/telegram.png
+  /static/images/amp/third-party/footer-mobile.png
+
+Cluster 7:
+  /m/filter/b<NUM>,p<NUM>,stexists,t<NUM>
+  /m/filter/b<NUM>,p<NUM>,stexists
+  /filter/stexists,p<NUM>,b<NUM>
+
+Cluster 8:
+  /filter/b<NUM>,p<NUM>
+  /m/filter/p<NUM>,b<NUM>
+  /m/filter/p<NUM>,b<NUM>,b<NUM>
+  /m/filter?f=p<NUM>,b<NUM>
+
+Cluster 9:
+  /m/filter/b<NUM>?page=<NUM>
+  /m/filter/p<NUM>,b<NUM>?page=<NUM>
+  /filter?f=p<NUM>&page=<NUM>
+  /m/filter/b<NUM>,p<NUM>?page=<NUM>
+  /filter?f=p<NUM>,b<NUM>&o=b&page=<NUM>
+  /m/filter/p<NUM>?page=<NUM>
+
+Cluster 10:
+  /filter/stexists,p<NUM>,b<NUM>?page=<NUM>
+  /filter/stexists,p<NUM>,b<NUM>,b<NUM>,b<NUM>,b<NUM>?page=<NUM>
+  /filter/stexists,p<NUM>?page=<NUM>
+
+Cluster 11:
+  /image/<NUM>?name=eb-x<NUM>-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=mfp-m<NUM>a-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=<NUM>-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=tm-<NUM>sp-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=mdn<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=code+<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=<NUM>f<NUM>fhn-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=<NUM>thumb.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=ms<NUM>-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=rs<NUM>w.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=<NUM>-<NUM>-fw.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=sxp<NUM>_<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=z.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=m<NUM>a-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=r<NUM>-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=janome-<NUM>-w.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=model-b<NUM>u-<NUM>-.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=<NUM>plus-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=janome-<NUM>-<NUM>.jpg&wh=<NUM>x<NUM>
+  /image/<NUM>?name=des-<NUM>-<NUM>.jpg&wh=<NUM>x<NUM>
+
+Cluster 12:
+  /image/<NUM>?name=gastroback-<NUM>.jpg&wh=max
+  /image/<NUM>?name=pr<NUM>at.jpg&wh=max
+  /image/<NUM>?name=<NUM>redd.jpg&wh=max
+  /image/<NUM>?name=black...jpg&wh=max
+  /image/<NUM>?name=<NUM>red.jpg&wh=max
+  /image/<NUM>?name=silver-select....-.jpg&wh=max
+  /image/<NUM>?name=<NUM>.jpg&wh=max
+  /image/<NUM>?name=pr<NUM>at<NUM>.jpg&wh=max
+  /image/<NUM>?name=-gold-select...-.jpg&wh=max
+
+--- Clustering Summary ---
+Total clusters found: 13
+Noise points (outliers): 44
+Total URLs processed: 168

@@ -104,7 +104,7 @@ def cluster_urls_from_log(df, out_path, min_cluster_size=5, min_samples=3):
     pprint(embeddings)
 
     # Step 4: Cluster embeddings using HDBSCAN
-    hdbscan = HDBSCAN(min_cluster_size=min_cluster_size, min_samples=min_samples, metric='euclidean')
+    hdbscan = HDBSCAN(min_cluster_size=3, min_samples=1, metric='cosine')
     labels = hdbscan.fit_predict(embeddings)
     print(f"✅ Output of: labels")
     pprint(labels)
